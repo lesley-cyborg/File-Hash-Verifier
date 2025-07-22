@@ -5,6 +5,7 @@ A simple Python GUI tool built with Tkinter that computes and verifies SHA256 ha
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![GUI](https://img.shields.io/badge/GUI-Tkinter-informational)
 ![Security](https://img.shields.io/badge/Feature-Hash%20Validation-green)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
